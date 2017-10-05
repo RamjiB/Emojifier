@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emojifier</string>
+    <string name="emojify_me">Emojify Me</string>
+    <string name="go">GO</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+</resources>
